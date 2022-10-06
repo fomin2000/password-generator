@@ -17,17 +17,14 @@ This website is an application that upon user click, generates a random password
 
 1. Open a browser (Chrome, Safari, Mozilla, etc.)
 2. Direct to the following link (https://fomin2000.github.io/password-generator/)
-3. Use Navigation links to direct to different sections of the web application.
-4. Contact links operate in different ways:
-    - Phone number, upon click, will open a browser option to call.
-    - Email, upon click, opens an mail application and opens draft file sent to selected email.
-    - Github, LinkedIn, and Instagram links will each divert into their own applications and show my personal portfolios.
+3. Click button "Generate Password"
+4. Answer the series of prompts, based on your answers, a password will be generated.
 
 ![websiteScreenshot](./Develop/assets/images/Screen%20Shot%202022-10-05%20at%204.56.58%20PM.png)
 
 ## Website Link
 
-https://fomin2000.github.io/professional-portfolio/
+https://fomin2000.github.io/password-generator/
 
 ## Credits
 
