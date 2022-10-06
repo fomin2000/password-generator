@@ -20,7 +20,7 @@ This website is an application that upon user click, generates a random password
 3. Click button "Generate Password"
 4. Answer the series of prompts, based on your answers, a password will be generated.
 
-![websiteScreenshot](./Develop/assets/images/Screen%20Shot%202022-10-05%20at%204.56.58%20PM.png)
+![websiteScreenshot](./assets/images/Screen%20Shot%202022-10-05%20at%204.56.58%20PM.png)
 
 ## Website Link
 
