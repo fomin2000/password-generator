@@ -1,25 +1,14 @@
 // Assignment code here
 
+// defined textbox area
 var passwordArea = document.getElementById('password')
 
+// characters object that contains all possible options
 var characters = {
   uppercase: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',
   lowercase: 'abcdefghijklmnopqrstuvwxyz',
   numbers: '0123456789',
   special: "!@#$%^&*()_+~\\`|}{[]:;?><,./-="
-}
-
-function uppercase() {
-  return characters.uppercase[Math.floor(Math.random() * characters.uppercase.length)];
-}
-function lowercase() {
-  return characters.lowercase[Math.floor(Math.random() * characters.lowercase.length)];
-}
-function numbers() {
-  return characters.numbers[Math.floor(Math.random() * characters.numbers.length)];
-}
-function special() {
-  return characters.special[Math.floor(Math.random() * characters.special.length)];
 }
 
 
